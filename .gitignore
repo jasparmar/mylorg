@@ -21,3 +21,10 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+# Custom Folders For Admin,Frontend
+public/backend/media
+public/backend/vendors
+
+public/frontend/media
+public/frontend/vendors
